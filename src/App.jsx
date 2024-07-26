@@ -59,7 +59,7 @@ function App() {
 
   return (
     <>
-      <Table data={data} columns={columns} />
+      <Table data={data} columns={columns} setData={setData} />
     </>
   );
 }
