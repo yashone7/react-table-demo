@@ -1,0 +1,82 @@
+[
+  {
+    "firstName": "Bernadette",
+    "lastName": "Hickle",
+    "age": 53,
+    "visits": 49,
+    "status": "Pending",
+    "progress": 20
+  },
+  {
+    "firstName": "Beverly",
+    "lastName": "Auer",
+    "age": 54,
+    "visits": 52,
+    "status": "Inactive",
+    "progress": 68
+  },
+  {
+    "firstName": "Chadd",
+    "lastName": "Langosh",
+    "age": 52,
+    "visits": 55,
+    "status": "Active",
+    "progress": 96
+  },
+  {
+    "firstName": "Jamal",
+    "lastName": "Kuhlman",
+    "age": 78,
+    "visits": 10,
+    "status": "Pending",
+    "progress": 62
+  },
+  {
+    "firstName": "Koby",
+    "lastName": "Zieme",
+    "age": 29,
+    "visits": 60,
+    "status": "Inactive",
+    "progress": 53
+  },
+  {
+    "firstName": "Andrew",
+    "lastName": "Hermiston",
+    "age": 30,
+    "visits": 16,
+    "status": "Active",
+    "progress": 34
+  },
+  {
+    "firstName": "Madge",
+    "lastName": "Stoltenberg",
+    "age": 59,
+    "visits": 6,
+    "status": "Active",
+    "progress": 45
+  },
+  {
+    "firstName": "Dewayne",
+    "lastName": "Marvin",
+    "age": 64,
+    "visits": 42,
+    "status": "Pending",
+    "progress": 16
+  },
+  {
+    "firstName": "Clinton",
+    "lastName": "Dietrich-Wiegand",
+    "age": 28,
+    "visits": 96,
+    "status": "Inactive",
+    "progress": 37
+  },
+  {
+    "firstName": "Rosa",
+    "lastName": "D'Amore",
+    "age": 31,
+    "visits": 24,
+    "status": "Pending",
+    "progress": 60
+  }
+]

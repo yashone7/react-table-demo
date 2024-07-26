@@ -1,0 +1,14 @@
+/* EditableCell.module.css */
+.editableInput {
+  width: 100%;
+  border: none;
+  background-color: transparent;
+  font-family: inherit;
+  font-size: inherit;
+  padding: 0;
+}
+
+.editableInput:focus {
+  outline: none;
+  background-color: #e6f3ff;
+}

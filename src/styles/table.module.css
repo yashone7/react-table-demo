@@ -1,0 +1,56 @@
+/* Table.module.css */
+.tableContainer {
+  overflow-x: auto;
+}
+
+.excelTable {
+  border-collapse: separate;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+
+.excelHeader {
+  background-color: #f3f3f3;
+  border: 1px solid #e0e0e0;
+  font-weight: bold;
+  padding: 8px;
+  position: relative;
+  text-align: left;
+}
+
+.excelCell {
+  border: 1px solid #e0e0e0;
+  padding: 8px;
+  min-width: 100px;
+}
+
+.excelCell:focus {
+  outline: none;
+}
+
+.excelCell.editing {
+  background-color: #e6f3ff;
+  border: 2px solid #1a73e8;
+}
+
+.resizer {
+  position: absolute;
+  right: -2px; /* Slight adjustment for better grab area */
+  top: 0;
+  height: 100%;
+  width: 4px;
+  background: rgba(0, 0, 0, 0.1);
+  cursor: col-resize;
+  user-select: none;
+  touch-action: none;
+  z-index: 1;
+}
+
+.resizer:hover,
+.resizer:active {
+  background: rgba(0, 0, 0, 0.2);
+}
+
+.resizing {
+  background-color: #e6f3ff;
+}
